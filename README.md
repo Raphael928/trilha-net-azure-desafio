@@ -66,3 +66,10 @@ Este é um diagrama do ambiente que deverá ser montado no Microsoft Azure, util
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima, incluindo a sua publicação na nuvem.
+
+## PARA ACESSAR SOLUÇÃO
+Precisei subir a versão do .NET para o 8 pois não foi possível criar o serviço de aplicação do azure para a versão do .NET 6
+
+https://sistemamvcdio1.azurewebsites.net/swagger/index.html
+
+Imagens/api_na_nuvem.png
